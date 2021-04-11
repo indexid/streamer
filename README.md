@@ -2,6 +2,7 @@
 Clone the streamer project that includes: client, apis, rtmpserver.
 
 Open client folder.
+
 run `npm install`. 
 run `npm start` (http://localhost:3000 to view it in a browser).
 
